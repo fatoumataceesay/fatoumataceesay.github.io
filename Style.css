@@ -1,0 +1,121 @@
+@charset "UTF-8";
+/ CSS Document */
+
+footer {
+	text-align: center;
+	margin-top:64px;
+	margin-bottom:32px;
+}
+
+nav {
+	font-size: 24px;	
+	text-align: center;
+	margin-top:16px;
+	margin-bottom:64px;
+	color: #FFD78C;
+	
+}
+
+p {
+	line-height: 150%;
+	color: #F7F7F7;	
+}
+
+h1 {
+	font-size: 34px;
+	color: #FFFFFF;
+	text-align:center;
+	background-color: #4A453B;
+}
+
+ul,
+ol {
+	font-size: 14px;
+	color: #F7F7F7;
+}
+
+img {
+	border-radius: .25em;
+	width: 100%;
+}
+
+nav a {
+	color: #FFD78C;
+	text-decoration: none;
+	margin-left: 8px;
+	margin-right: 8px;
+}
+
+a:hover {
+	color: #44E3C1;
+}
+
+#homepage {
+	column-count: 2;
+	column-gap: 24px;
+}
+
+.profile {
+	width: 180px;
+	border-radius: 100%;
+	margin-right: 18px;
+	border: 4px solid #F7F7F7;
+	float: left;
+}
+
+header {
+	 background-color: #4A453B;
+	 margin-top:24px;
+}
+
+body {
+	 width: 900px;
+	 background-color: #4A453B;
+	 margin-left: auto;
+	 margin-right: auto;
+	 font-family: 'Alegreya Sans', sans-serif;
+}
+
+h2 {
+	text-align:center;
+	color: #F7F7F7;
+}
+
+iframe {
+	Margin-right: auto;
+	margin-left: auto;
+	display: block;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
